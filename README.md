@@ -1,1 +1,1 @@
-AdventureWorks_DWHDesign_ETLDataPipeline_PowerBI
+AdventureWorks OLAP System: ETL Data Pipeline, Analysis with Power BI
